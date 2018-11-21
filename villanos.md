@@ -2,3 +2,4 @@
 
 * Dr Doom
 * Magneto
+* Capitán America
